@@ -1,4 +1,14 @@
 <div align="center">
+	<a href="https://barstool.lotl.dev" style="display: flex; flex-direction: column">
+		<img style="border-radius: 16px" src="https://rela.dev/assets/landing/barstool-rela.png" alt="Try Barstool, the better menubar meant for macOS." width="400">
+		<p>
+			Try Barstool Today
+		</p>
+	</a>
+</div>
+
+---
+<div align="center">
 	<img src="./build/icon.png" alt="RelaGit logo" width="128">
 	<h1>RelaGit</h1>
 	<p>The elegant solution to graphical version control.</p>
